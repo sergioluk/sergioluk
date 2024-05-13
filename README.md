@@ -3,11 +3,10 @@
   <a href = "mailto:sergioluk@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Hey! How's it going?
+## Hello, I'm Sérgio!
 
-My name is Sérgio. I'm a beginner in programming with the goal of becoming a fullstack developer.
-Also, I'm a proud mom of one big dog hehe 
-Love music, fantasy books, and games!
+Currently pursuing a bachelor's degree in Analysis and Systems Development and a postgraduate degree in Software Engineering with DevOps.
+In search of my job opportunity as a developer.
 
 ![Sergios's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioluk&show_icons=true&theme=dracula)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioluk)](https://github.com/sergioluk/github-readme-stats)-->
